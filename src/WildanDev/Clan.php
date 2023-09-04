@@ -1,6 +1,6 @@
 <?php
 
-namespace Will;
+namespace WildanDev;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
